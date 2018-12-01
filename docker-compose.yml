@@ -2,3 +2,8 @@ version: '3'
 services:
   advent:
     build: .
+    ports:
+      - "33333:33333"
+    volumes:
+      - ".:/usr/src/app"
+    entrypoint: lein repl :headless :host 0.0.0.0 :port 33333
