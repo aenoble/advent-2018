@@ -1,29 +1,20 @@
 # advent-2018
 
-FIXME: description
+Attempt at completing Advent Of Code 2018 in Clojure.  This isn't going to be
+pretty.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+```
+  $ docker-copmose up
+```
+
+Open a REPL at port 3333
+
 
 ## Usage
-
-FIXME: explanation
-
-    $ java -jar advent-2018-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
 ## Examples
-
-...
-
 ### Bugs
-
-...
-
 ### Any Other Sections
 ### That You Think
 ### Might be Useful
